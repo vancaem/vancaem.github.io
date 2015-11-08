@@ -1,0 +1,11 @@
+{
+	"uuid": "21A9B127-D564-4AF4-A4F3-445B81CB480C",
+	"category": "Category Name",
+	"templates": [
+		{
+			"name": "Template Name",
+			"fileExtension": "html",
+			"snippet": ""
+		}
+	]
+}
